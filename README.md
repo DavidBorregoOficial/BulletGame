@@ -1,4 +1,4 @@
-# BulletGame
+# Bienvenido a Bullet Game
 Un juego hecho con Raylib donde debes de conseguir la mayor puntuación posible sin que te maten.
 ## Controles
 W-A-S-D son los controles de tu personaje.
